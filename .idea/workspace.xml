@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bc6c15e-7c8c-4099-81ae-7a8b24d01f55" name="Changes" comment="" />
+    <list default="true" id="3bc6c15e-7c8c-4099-81ae-7a8b24d01f55" name="Changes" comment="Creando una nueva prueba" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,8 +21,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -44,11 +46,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727147555129</updated>
-      <workItem from="1727147556208" duration="1000" />
+      <workItem from="1727147556208" duration="147000" />
     </task>
+    <task id="LOCAL-00001" summary="Creando una nueva prueba">
+      <option name="closed" value="true" />
+      <created>1727147631404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727147631404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creando una nueva prueba" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creando una nueva prueba" />
   </component>
 </project>
